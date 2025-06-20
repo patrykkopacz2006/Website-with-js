@@ -1,2 +1,2 @@
 # Website-with-js
-This one has js, ignore the other one
+For a school project. This one has js, ignore the other one
